@@ -86,13 +86,8 @@ Dễ bị replay attack nếu không kiểm soát tốt timestamp
 Nhóm 10 – Lớp CNTT 16-04
 Trường Đại học Đại Nam
 
-less
-Sao chép
-Chỉnh sửa
 
----
 
-📦 **Cách sử dụng:**  
-Tạo file `README.md` trong repo của bạn, dán nội dung trên vào.
 
-Nếu bạn muốn mình **tạo thêm hình minh họa quy trình**, hoặc viết bản README bằng **tiếng Việt hoàn toàn*
+
+
