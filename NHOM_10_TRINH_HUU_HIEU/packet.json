@@ -1,0 +1,9 @@
+{
+  "nonce": "7Z1lnKJpB7Msas6F",
+  "cipher": "QEuYWtvCd5Hz+4XZOIIqC6qgvxnIc4840PhviWIxLC+2jmnnrUyj65HzVavbaWK82vdY+dLivOBsPQt1uV4Wz7k7RCBu9HlJY6dzxCRJN7DImHVEwcLTN4icUCoDtHPejS2Xq7gvojHaUB+J/fWjkLPehnkuR+DsWBrenu7sMZgmFRQJMTZxHH7Mi/C52JOq4F7liHCEgAXdg1BV8NjAM4t5hvRvx+OZoXLH3h9477Yx8GVbe7l8WNiG8e8C",
+  "tag": "FReiJ7D/iyiwyY3AcoNRYg==",
+  "hash": "b80279eec8c3b1c2a53a04ad01419f163f417fed62907305f82ff1453b5fb33b76fb6a205acd86f7fd909bf210dd464774f296657be5fab6f1cab4b5d9400334",
+  "sig": "nmbsxLWQdQdqmRInpRR6Uxrhf8hTXVcJQ68Nlw9lJtsnsiJh2exfPgSoi9hnannOZlZXK20UEY+8j50gc859IAVNa8/t+ZhqX6yqHvItFtVJUt4zV0bCn7eQhvH0GjECo1BWh+KWWUDtb6E4ypxxnxcZh1JZMpzhK3RYGf5XpEo=",
+  "enc_key": "DZpNzMbZpf+5VYjmcrNQ1CP3Yz3CC7ABDwG7weRflcmAdrPU0sZOxo9E4lpxL4I3n5l0cNoJw6LAv+O17petgpAxO3jYK7AgyqjjCKbQIeDDmoso3KmyT5LYzhUiShwa4xCtTMc7zuQ7HhfXN6mQJjYiM2Oh+9ulyOTolgUmjNo=",
+  "metadata": "Input/finance.txt|1750236444|text/plain"
+}
